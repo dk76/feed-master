@@ -7,8 +7,8 @@ feeds:
     image: images/yt-example.png
     sources:
       - {name: "Точка", url: http://example.com/yt/rss/PLZVQqcKxEn_6YaOniJmxATjODSVUbbMkd}
-      - {name: "Живой Гвоздь", url: http://example.com/yt/rss/UCWAIvx2yYLK_xTYD4F2mUNw
-      - {name: "Дилетант", url: http://example.com/yt/rss/UCuIE7-5QzeAR6EdZXwDRwuQ
+      - {name: "Живой Гвоздь", url: http://example.com/yt/rss/UCWAIvx2yYLK_xTYD4F2mUNw}
+      - {name: "Дилетант", url: http://example.com/yt/rss/UCuIE7-5QzeAR6EdZXwDRwuQ}
 
 
 youtube:
